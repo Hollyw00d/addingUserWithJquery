@@ -64,6 +64,11 @@
             <div class="col-md-3">Contact No.:</div>
             <div class="col-md-9"><input id="phone" type="text" placeholder="Phone #" /></div>
         </div>
+
+        <div class="row">
+            <div class="col-md-3">&nbsp;</div>
+            <div class="col-md-9"><input id="submit" type="submit" value="Add User" /></div>
+        </div>
     </form>
 
 </div>
