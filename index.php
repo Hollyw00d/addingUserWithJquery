@@ -36,7 +36,6 @@
 
         <tbody>
 
-
         </tbody>
     </table>
 
@@ -70,6 +69,8 @@
             <div class="col-md-9"><input id="submit" type="submit" value="Add User" /></div>
         </div>
     </form>
+
+    <button>Reset</button>
 
 </div>
 
